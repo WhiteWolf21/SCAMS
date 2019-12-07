@@ -1,6 +1,7 @@
 # SCAMS
 SCAMS System For University
-## Database that the project uses
+
+## Database That SCAMS Uses
 
 ### Database Name: katownin_scams
 ![Database Name: katownin_scams](dbpictures/DB.png)
